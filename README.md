@@ -5,6 +5,12 @@ Soy de Chile
 
 Actualmente sigo desarrollando mis habilidades y conocimientos en Desarrollo Web
 
+### :zap: Actividad reciente
+<!-- START_SECTION: activity -->
+
+<!-- END_SECTION: activity -->
+
+
 ### Proyectos
 - Me encuentro desarrollando un par de sitios webs
 
